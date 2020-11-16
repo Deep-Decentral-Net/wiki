@@ -4,3 +4,5 @@
 * p(text,align);
 * btn(text,link,align,img,width,height);
 * img(link,align,width,height);
+
+echo 1;
